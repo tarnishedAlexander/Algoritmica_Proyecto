@@ -7,9 +7,9 @@
     
 </div>
 
-### Introduccion
+### introducción 
 
-El proyecto que se escogio fue la implementacion del algoritmo Flood Fill al programa Buscaminas con el fin de reducir la complejidad de este y maximizar el numero de posibles problemas que pueda albergar. 
+El proyecto que se escogio fue la implementacion del algoritmo Flood Fill al programa Buscaminas con el fin de reducir la complejidad de este y maximizar el número de posibles problemas que pueda albergar. 
 Como se tiene conocimiento el algoritmo Flood Fill maneja arreglos para acceder y manipular los valores de las casillas alrededor de una en particular (en este caso las minas) lo que lo vuelve constante.
 Este proyecto tiene como complejidad O(n) = n^2 lo que lo vuelve lineal, y esta complejidad sale por la manipulacion de matrices. 
 
